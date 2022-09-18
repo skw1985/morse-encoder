@@ -3,6 +3,5 @@
 
 int main()
 {
-    std::string str("ab c");
-    std::cout << MorseEncoder::StringToMorse(str) << '\n';
+    std::cout << "Main program\n";
 }
